@@ -17,7 +17,12 @@ The site will feature a guide to each day of the festival, a link to purchase ti
 
 # Figma Wireframe Link
 <img src="img/des 228 proj 3.pdf" alt="proj 3 wireframe">
+
+Figma Link:
 https://www.figma.com/file/zZuWLAC2OAFP8Zdi8JwyKd/des-228-proj-3?type=design&node-id=0%3A1&mode=design&t=WPEXtr5NW5O4I4eJ-1 
+
+Google Drive Link(includes poster & button designs):
+https://drive.google.com/drive/folders/1AeAGpX508QcXXIu-K9oJnVjIT5qkNwbl?usp=drive_link 
 
 # acknowledgement
 (wip)
