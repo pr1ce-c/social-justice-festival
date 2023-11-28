@@ -10,18 +10,18 @@ The site will feature a guide to each day of the festival, a link to purchase ti
 
 
 # Technical Overview(wip)
--HTML
--CSS
--wireframing done with Figma
+-HTML<br>
+-CSS<br>
+-wireframing done with Figma<br>
 -merchandise mockups created on Canva
 
 # Figma Wireframe Link
 <img src="img/des 228 proj 3.pdf" alt="proj 3 wireframe">
 
-Figma Link:
+Figma Link:<br>
 https://www.figma.com/file/zZuWLAC2OAFP8Zdi8JwyKd/des-228-proj-3?type=design&node-id=0%3A1&mode=design&t=WPEXtr5NW5O4I4eJ-1 
 
-Google Drive Link(includes poster & button designs):
+Google Drive Link(includes poster & button designs):<br>
 https://drive.google.com/drive/folders/1AeAGpX508QcXXIu-K9oJnVjIT5qkNwbl?usp=drive_link 
 
 # acknowledgement
