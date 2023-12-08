@@ -13,7 +13,8 @@ The site will feature a guide to each day of the festival, a link to purchase ti
 -HTML<br>
 -CSS<br>
 -wireframing done with Figma<br>
--merchandise mockups created on Canva
+-merchandise mockups created on Canva<br>
+-CSS references from Stack Overflow
 
 # Figma Wireframe Link
 <img src="development/updated wireframe.pdf" alt="proj 3 wireframe">
