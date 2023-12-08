@@ -14,3 +14,20 @@ body {
     text-align: center;
     color: #373619;
 }
+
+#centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #373619;  
+}
+
+a:hover {
+    color: #63602D;
+}

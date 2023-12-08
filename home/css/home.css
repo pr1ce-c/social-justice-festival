@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #373619;
+    height: 90px;
+    
+    font-family: "neulis-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
+
+#home{
+    width: 154px;
+    height: 42px;
+    flex-shrink: 0;
+}
+
+#events{
+
+}
+
+#events2{
+
+}
+
+#merch{
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ 
+a:hover {
+    color:#D9D9D9;
+}
