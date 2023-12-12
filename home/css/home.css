@@ -43,25 +43,6 @@ p{
 }
 
 
-
-/*#home{
-    color: #D6A138;
-    text-align: right;
-    margin-left: 50%;
-} */
-
-#events{
-
-}
-
-#events2{
-
-}
-
-#merch{
-
-}
-
 #about{
     position: fixed;
     top: 50%;
@@ -90,4 +71,13 @@ footer{
     font-weight: 400;
     font-style: normal;
     font-size: 35px;
+
+    color:white;
+    text-align: left;
 }
+
+footer:hover{
+    color: #D9D9D9;
+   
+}
+
