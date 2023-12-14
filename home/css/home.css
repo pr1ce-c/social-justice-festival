@@ -37,9 +37,7 @@ p{
     font-family: "neulis-sans", sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 25px;
-
-    
+    font-size: 25px;  
 }
 
 
@@ -48,6 +46,7 @@ p{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 a{
@@ -60,8 +59,9 @@ a:hover {
     color:#D9D9D9;
 }
 
-#values{
+#overview{
     text-align: right;
+    margin-right: 5%;
 }
 
 footer{
