@@ -9,13 +9,11 @@ This festival highlights the issue of racial inequity within United States legis
 The site will feature a guide to each day of the festival, a link to purchase tickets--plus other event/venue information--along with a selection of merchandise whose proceeds will go towards the same local and national organizations featured throughout the festival.
 
 
-# Technical Overview(wip)
+# Technical Overview
 -HTML<br>
 -CSS<br>
--wireframing done with Figma<br>
--merchandise mockups created on Canva<br>
--logo created with Illustrator<br>
--CSS references from Stack Overflow, W3Schools
+-Adobe Illustrator
+
 
 # Figma Wireframe Link
 <img src="development/updated wireframe.pdf" alt="proj 3 wireframe">
@@ -27,4 +25,7 @@ Google Drive Link(includes poster & button designs):<br>
 https://drive.google.com/drive/folders/1AeAGpX508QcXXIu-K9oJnVjIT5qkNwbl?usp=drive_link 
 
 # acknowledgement
-(wip)
+-wireframing created with Figma<br>
+-merchandise mockups created on Canva<br>
+-logo created with Illustrator<br>
+-CSS references from Stack Overflow, W3Schools(
