@@ -27,11 +27,25 @@ header>nav{
     /*padding: ;*/
 }
 
+body {
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
 h1{
     font-family: "neulis-sans", sans-serif;
     font-weight: 500;
     font-style: normal;
     font-size: 35px;
+}
+
+#schedule {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 h2{
