@@ -102,6 +102,7 @@ p{
 .directions {
     text-align: center;
     margin-top: 5%;
+    padding-bottom: 5%;
 }
 
 a{
@@ -116,6 +117,7 @@ a:hover {
 
 footer{
     background: #39393B;
+    height: 100px;
 
     font-family: "neulis-sans", sans-serif;
     font-weight: 400;
@@ -124,5 +126,17 @@ footer{
 
     color:white;
     text-align: left;
+}
+
+footer>nav{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0;
+    text-align: left;
+    margin-right: 5%;
+
+    transform:translateY(35px);
+    padding-left: 3%;
 }
 

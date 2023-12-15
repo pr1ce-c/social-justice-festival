@@ -6,7 +6,7 @@
 
 header{
     background-color: #373619;
-    height: 90px;
+    height: 2.75em;
 
 
     /*display: flex;
@@ -16,7 +16,7 @@ header{
     font-family: "neulis-sans", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 35px;
+    font-size: 2em;
     
     position: relative;
 }
@@ -31,7 +31,7 @@ header>nav{
     color:#D6A138;
     margin-right: 5%;
     
-    transform:translateY(-65px);
+    transform:translateY(-1.95em);
 
 }
 
@@ -47,14 +47,14 @@ h2{
     font-family: "neulis-sans", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 35px; 
+    font-size: 2em; 
 }
 
 h3 {
     font-family: "neulis-sans", sans-serif;
     font-weight: 200;
     font-style: normal;
-    font-size: 35px; 
+    font-size: 2em; 
 
     text-align: right;
 }
@@ -63,7 +63,7 @@ p{
     font-family: "neulis-sans", sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 25px;
+    font-size: 1.5em;
 
     
 }
@@ -76,6 +76,8 @@ p{
    width: 90%;
    justify-content: space-between;
    margin: auto;
+
+   position: relative;
 
 }
 
@@ -95,11 +97,13 @@ p{
     margin: 15% 5% 5% 10%;
     padding: 3% 3% 0% 3%;
 
-    border-radius: 30px;
+    position: relative;
+
+    border-radius: 3em;
 }
 
 .sticker_price{
-    transform: translateY(-37px);
+    transform: translateY(-2.3em);
 }
 
 .poster{
@@ -108,7 +112,9 @@ p{
     margin: -40% 10% 10% 5%;
     padding: 3% 3% 0% 3%;
 
-    border-radius: 30px;
+    border-radius: 3em;
+    position: relative;
+    
 
     img{
         padding-bottom: 5%;
@@ -116,19 +122,22 @@ p{
 }
 
 .poster_price{
-    transform: translateY(-53px);
+    transform: translateY(-3.5em);
 }
 
 .sponsors{
     text-align: center;
+    
 }
 
 .raceforward{
-    align-items: left;
+    transform:translateX(10%);
+    padding-top: 3%;
 }
 
 .noharm{
-    align-items: right;
+    transform: translateY(-80%);
+    padding-right: 15%;
 }
 
 a{
@@ -143,14 +152,27 @@ a:hover {
 
 footer{
     background: #39393B;
+    height: 3.4em;
 
     font-family: "neulis-sans", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 35px;
+    font-size: 2em;
 
     color:white;
     text-align: left;
+}
+
+footer>nav{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0;
+    text-align: left;
+    margin-right: 5%;
+
+    transform:translateY(1.35em);
+    padding-left: 3%;
 }
 
 #viewport{
@@ -175,14 +197,24 @@ footer{
 
     .sticker{
         width: 100%;
+        margin: 15% 5% 5% 10%;
+        padding: 3% 3% 0% 3%;
+        position:relative;
     }
 
     .poster{
-        width: 100%;
+        width: 50%;
+        margin: -40% 10% 10% 5%;
+        padding: 3% 3% 0% 3%;
+        position: relative;
     }
 
     #viewport img {
         width: 100%;
+    }
+    
+    img{
+        size: 50%;
     }
     
 }
@@ -192,7 +224,7 @@ footer{
 (max-width:600px) 
 {
     * {
-        font-size: 50%;
+        font-size: 90%;
     }
 
     #viewport img {
@@ -208,10 +240,15 @@ footer{
 
     .sticker{
         width: 100%;
+        margin: 15% 5% 5% 10%;
+        padding: 3% 3% 0% 3%;
     }
 
     .poster{
         width: 100%;
+        margin: -40% 10% 10% 5%;
+        padding: 3% 3% 0% 3%;
     }
+
     
 }
