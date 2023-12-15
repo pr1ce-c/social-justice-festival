@@ -54,7 +54,7 @@ h2{
 
 p{
     font-family: "neulis-sans", sans-serif;
-    font-weight: 300;
+    font-weight: 100;
     font-style: normal;
     font-size: 25px;
 
@@ -71,15 +71,15 @@ p{
 }
 
 .day1{
-
+    width: 30%;
 }
 
 .day2{
-
+    width: 30%;
 }
 
 .day3{
-
+    width: 30%;
 }
 
 a{
