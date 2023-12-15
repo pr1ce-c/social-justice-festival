@@ -28,4 +28,4 @@ https://drive.google.com/drive/folders/1AeAGpX508QcXXIu-K9oJnVjIT5qkNwbl?usp=dri
 -wireframing created with Figma<br>
 -merchandise mockups created on Canva<br>
 -logo created with Illustrator<br>
--CSS references from Stack Overflow, W3Schools(
+-CSS references from Stack Overflow, W3Schools
