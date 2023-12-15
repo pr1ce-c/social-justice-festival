@@ -14,7 +14,7 @@ The site will feature a guide to each day of the festival, a link to purchase ti
 -CSS<br>
 -wireframing done with Figma<br>
 -merchandise mockups created on Canva<br>
--logo created with Illustrator
+-logo created with Illustrator<br>
 -CSS references from Stack Overflow, W3Schools
 
 # Figma Wireframe Link
