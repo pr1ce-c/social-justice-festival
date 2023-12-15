@@ -27,6 +27,15 @@ header>nav{
     /*padding: ;*/
 }
 
+.crowd{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+
+   
+}
+
 
 
 h2{
