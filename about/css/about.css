@@ -49,6 +49,8 @@ p{
     margin: 5% 15% 5% 15%;
     padding-left: 5%;
     padding-top: 5%;
+
+    border-radius: 30px;
 }
 
 .who{
@@ -68,7 +70,7 @@ img{
     padding-left: 5%;
     padding-top: 5%;
 
-    
+    border-radius: 30px;
 }
 
 .values{
