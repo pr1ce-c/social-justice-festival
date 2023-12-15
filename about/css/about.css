@@ -28,6 +28,7 @@ header>nav{
 }
 
 
+
 h2{
     font-family: "neulis-sans", sans-serif;
     font-weight: 400;
@@ -41,6 +42,34 @@ p{
     font-style: normal;
     font-size: 25px;
     
+}
+
+.quien{
+    background:#D9D9D9;
+    margin: 5% 15% 5% 15%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.who{
+    text-align: left;
+    margin: 0% 10% 0% 50%;
+    transform:translateX(-125%);
+    padding: 5%;
+}
+
+.valores{
+    background:#D9D9D9;
+    margin: 5% 15% 5% 15%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.values{
+    text-align: left;
+    margin: 0% 10% 0% 50%;
+    transform:translateX(-125%);
+    padding-bottom: 5%;
 }
 
 a{
